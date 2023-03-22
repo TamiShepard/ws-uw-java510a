@@ -1,0 +1,8 @@
+Rectangles
+    side1:    5.00000, side2:   10.00000, peri =   30.00000, area =   50.00000
+    side1:   15.00000, side2:    6.00000, peri =   42.00000, area =   90.00000
+    side1:    7.00000, side2:   19.00000, peri =   52.00000, area =  133.00000
+Circles
+    radius:    5.00000, peri =   31.41593, area =   78.53982
+    radius:   10.00000, peri =   62.83185, area =  314.15927
+    radius:   15.00000, peri =   94.24778, area =  706.85835
