@@ -1,0 +1,12 @@
+Initial balance:
+Account Name: CBurke, AccountType: Checking, Balance 80.000000
+Account Name: CBurke, AccountType: Savings, Balance 20.000000
+Transfering $20 to savings.....
+Account Name: CBurke, AccountType: Checking, Balance 55.000000
+Account Name: CBurke, AccountType: Savings, Balance 40.000000
+Transfering $10 to savings.....
+Account Name: CBurke, AccountType: Checking, Balance 40.000000
+Account Name: CBurke, AccountType: Savings, Balance 50.000000
+Transfering $60 to checking.....
+Account Name: CBurke, AccountType: Checking, Balance 85.000000
+Account Name: CBurke, AccountType: Savings, Balance 0.000000
