@@ -9,7 +9,7 @@ class UtilsInteractiveDriver
 {
 	/**
 	 * Main method
-	 * @param args
+	 * @param args - n/a
 	 */
     public static void main(String[] args)
     {

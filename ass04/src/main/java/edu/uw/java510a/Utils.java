@@ -29,7 +29,7 @@ public class Utils {
 
 	/**
 	 * Setter for min.
-	 * @param min
+	 * @param min - min value
 	 */
 	public void setMin(int min) {
 		this.min = min;
@@ -45,7 +45,7 @@ public class Utils {
 
 	/**
 	 * Setter for max
-	 * @param max
+	 * @param max - max value
 	 */
 	public void setMax(int max) {
 		this.max = max;
@@ -54,8 +54,8 @@ public class Utils {
 	
 	/**
 	 * Prompt user for input between a range of integers of min and max.
-	 * @param min
-	 * @param max
+	 * @param min - min value
+	 * @param max - max value
 	 * @return integer value of input from JOptionPane, if data was valid
 	 * @throws OpCanceledException, NumberNotInRangeException
 	 */
